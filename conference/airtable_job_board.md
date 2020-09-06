@@ -20,17 +20,17 @@ Here we use AirTable and some cloud storage to create an elegant, feature-rich, 
 
 [Airtable Job Board Base](https://airtable.com/shrme2KSoGVdsCt1H/tblDRZRchQH7BLJGa/viwSvg8NIIyLab4QI?blocks=hide)
 
-    <img alt="Copy Base" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_copy_base.png" width="200px">
+<img alt="Copy Base" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_copy_base.png" width="200px">
 
 ### Airtable Manual Setup
-1. Sign up for [Airtable](https://airtable.com/). This will be our database and form designer/host. The free account tier should work for our needs
+1. Sign up for [Airtable](https://airtable.com/) - a SaaS database host and UI designer - with the free account tier
 
-1. In your first project, create a Base "Job Board". This is the database we'll work from.
+1. In your first project, create a Base "Job Board" - the database we'll work from
 
     <img alt="Sample Customized Job Board" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_base_create.png" width="50%">
 
-1. Find the Grid View, give the current table a name, "Jobs".
-1. Add the relevant field names in the tops of each column of the table, using the "+" sign to add new fields.
+1. Find the Grid View, give the current table a name, "Jobs"
+1. Add the relevant field names in the tops of each column of the table, using the "+" sign to add new fields
     - `Company Name` (Single Line)
     - `Company Logo` (Attachment)
     - `Role` (Single Line)
@@ -44,7 +44,10 @@ Here we use AirTable and some cloud storage to create an elegant, feature-rich, 
 
 1. Create a new form, it will auto-populate with all of the fields
 1. Add a title and description to your form
-1. Customize the fields on your form, set visibility and order
+
+    <img alt="Customize Form" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_form.png" width="100%">
+
+1. Customize the fields on your form, set visibility, order, and required properties
 
     <img alt="Customize Form" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_form_customize.png" width="50%">
 
