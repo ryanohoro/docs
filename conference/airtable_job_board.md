@@ -109,7 +109,7 @@ You should see a notification to your preferred channel when either event is tri
 1. Get the embed code for the Gallery view, and the shareable links for the Grid and Form views, add them to the custom layout where the placeholder links are.
 
     <img alt="Gallery Embed Code" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_gallery_embed.png" width="30%"><img alt="Gallery Embed Code" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_gallery_embed_code.png" width="70%">
-    <img alt="Gallery Embed Code" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/custom_html_template.png" width="70%">
+    <img alt="Gallery Embed Code" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/custom_html_template.png" width="100%">
 
 
 1. Host the custom layout file on AWS S3, Google Cloud Storage, GitHub Pages, or any other static hosting option.
