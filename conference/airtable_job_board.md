@@ -63,6 +63,9 @@ Here we use AirTable and some cloud storage to create an elegant, feature-rich, 
     - If you'd like to tag and prioritize sponsored or other types of listings, sort first by `Type` (Z -> A), then `Company Name`.
     <img alt="Sort Table" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_table_sort.png" width="60%">
 
+You should have a nice looking, filtered, and sorted Gallery view.
+
+<img alt="Sample Customized Job Board" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_gallery_demo.png" width="50%">
 
 ### Share Airtable Links
 
