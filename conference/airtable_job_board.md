@@ -16,7 +16,7 @@ https://airtable.com/shrme2KSoGVdsCt1H/tblDRZRchQH7BLJGa/viwSvg8NIIyLab4QI?block
 
 ### Sample
 
-![Sample Custom Gallery View](/airtable_job_board/diana_example_gallery.png =800x460)
+![Sample Custom Gallery View](/conference/airtable_job_board/images/diana_example_gallery.png =800x460)
 
 ### Airtable View Setup
 1. Sign up for AirTable. This will be our database and form designer/host. The free account tier should work for our needs.
