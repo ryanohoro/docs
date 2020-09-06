@@ -22,7 +22,7 @@ Here we use AirTable and some cloud storage to create an elegant, feature-rich, 
 
 <img alt="Copy Base" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_copy_base.png" width="200px">
 
-### Create Shareable Airtable Links
+### Shareable Airtable Links
 
 1. Make shareable links for your Form and Gallery views.
     
@@ -31,7 +31,7 @@ Here we use AirTable and some cloud storage to create an elegant, feature-rich, 
 1. For more accessible browsing, also create a shareable Grid view link.
 1. Share these links as needed for your event/organization.
 
-### Customizing the Job Board Layout
+### Custom Job Board
 
 1. Create an HTML template, or use the sample [HTML Template](https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/jobs.html) to create a custom layout for your Grid view.
 1. Get the embed code for the Gallery view, and the shareable links for the Grid and Form views, add them to the custom layout where the placeholder links are.
@@ -73,6 +73,9 @@ You should see a notification to your preferred channel when either event is tri
 <img alt="Sample Slack Post" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_automations_slack_demo.png" width="70%">
 
 ### Airtable Manual Setup
+
+If copying the [Airtable Job Board Base](https://airtable.com/shrme2KSoGVdsCt1H/tblDRZRchQH7BLJGa/viwSvg8NIIyLab4QI?blocks=hide) is not an option, set up your Base with the following steps.
+
 1. Sign up for [Airtable](https://airtable.com/) - a SaaS database host and UI designer - with the free account tier.
 
 1. In your first project, create a Base "Job Board" - the database we'll work from.
