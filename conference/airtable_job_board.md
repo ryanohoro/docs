@@ -1,6 +1,6 @@
 ## Airtable No-Code Job Board
 
-Here we use AirTable and some cloud storage to create an elegant and feature-rich, user-driven job board.
+Here we use AirTable and some cloud storage to create an elegant, feature-rich, and user-driven job board.
 
 ### Goals:
 1. User-driven content
@@ -58,8 +58,8 @@ Here we use AirTable and some cloud storage to create an elegant and feature-ric
 
 ### Share Airtable Links
 
-1. Make sharable links for your Form and Gallery views
-1. For more accessible browsing, also create a sharable Grid view link
+1. Make shareable links for your Form and Gallery views
+1. For more accessible browsing, also create a shareable Grid view link
 1. Share these links as needed for your event/organization
 
 ### Notifications
@@ -82,10 +82,9 @@ When new posts are submitted, send a notification to a moderation channel
 
 <img alt="Sample Slack Post" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_automations_slack_demo.png" width="50%">
 
-
 When posts have their Approved field updated, send a notification to the public channel
 
-
+<img alt="Automation for New Post" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_automations_approved.png" width="100%">
 
 ### Customizing the Job Board Layout
 
