@@ -22,7 +22,7 @@ Here we use AirTable and some cloud storage to create an elegant, feature-rich, 
 
 <img alt="Copy Base" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_copy_base.png" width="200px">
 
-### Share Airtable Links
+### Create Shareable Airtable Links
 
 1. Make shareable links for your Form and Gallery views.
     
@@ -30,6 +30,17 @@ Here we use AirTable and some cloud storage to create an elegant, feature-rich, 
 
 1. For more accessible browsing, also create a shareable Grid view link.
 1. Share these links as needed for your event/organization.
+
+### Customizing the Job Board Layout
+
+1. Create an HTML template, or use the sample [HTML Template](https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/jobs.html) to create a custom layout for your Grid view.
+1. Get the embed code for the Gallery view, and the shareable links for the Grid and Form views, add them to the custom layout where the placeholder links are.
+
+    <img alt="Gallery Embed" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_gallery_embed.png" width="30%"><img alt="Gallery Embed Code" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_gallery_embed_code.png" width="70%">
+    <img alt="Custom HTML Template" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/custom_html_template.png" width="100%">
+
+
+1. Host the custom layout file on AWS S3, Google Cloud Storage, GitHub Pages, or any other static hosting option.
 
 ### Notifications
 
@@ -56,17 +67,6 @@ When posts have their `Approved` field updated, send a notification to the publi
 You should see a notification to your preferred channel when either event is triggered.
 
 <img alt="Sample Slack Post" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_automations_slack_demo.png" width="70%">
-
-### Customizing the Job Board Layout
-
-1. Create an HTML template, or use the sample [HTML Template](https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/jobs.html) to create a custom layout for your Grid view.
-1. Get the embed code for the Gallery view, and the shareable links for the Grid and Form views, add them to the custom layout where the placeholder links are.
-
-    <img alt="Gallery Embed" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_gallery_embed.png" width="30%"><img alt="Gallery Embed Code" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_gallery_embed_code.png" width="70%">
-    <img alt="Custom HTML Template" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/custom_html_template.png" width="100%">
-
-
-1. Host the custom layout file on AWS S3, Google Cloud Storage, GitHub Pages, or any other static hosting option.
 
 ### Airtable Manual Setup
 1. Sign up for [Airtable](https://airtable.com/) - a SaaS database host and UI designer - with the free account tier.
