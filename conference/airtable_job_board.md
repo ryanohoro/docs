@@ -1,6 +1,6 @@
 # Airtable No-Code Job Board
 
-Here we use AirTable and some cloud storage to create an elegant, feature-rich, and user-driven job board.
+Here we use AirTable and some cloud storage to create an elegant, feature-rich, and user-driven job board. Various elements can be easily embedded in an existing event or organization website.
 
 ### Goals
 1. User-driven content
@@ -63,6 +63,10 @@ When new posts are submitted, send a notification to a moderation channel.
 When posts have their `Approved` field updated, send a notification to the public channel.
 
 <img alt="Automation for New Post" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_automations_approved.png" width="100%">
+
+Turn them on.
+
+<img alt="Sample Slack Post" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_automations_enabled.png" width="60%">
 
 You should see a notification to your preferred channel when either event is triggered.
 
