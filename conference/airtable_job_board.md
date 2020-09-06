@@ -1,8 +1,8 @@
-## Airtable No-Code Job Board
+# Airtable No-Code Job Board
 
 Here we use AirTable and some cloud storage to create an elegant, feature-rich, and user-driven job board.
 
-### Goals:
+### Goals
 1. User-driven content
 1. Elegant display (vs. Google Sheets)
 1. Moderation option
