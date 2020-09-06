@@ -78,7 +78,7 @@ If copying the [Airtable Job Board Base](https://airtable.com/shrme2KSoGVdsCt1H/
 
 1. Sign up for [Airtable](https://airtable.com/) - a SaaS database host and UI designer - with the free account tier.
 
-1. In your first project, create a Base "Job Board" - the database we'll work from.
+1. In your first workspace, create a Base "Job Board" - the database we'll work from.
 
     <img alt="Sample Customized Job Board" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_base_create.png" width="50%">
 
