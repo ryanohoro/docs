@@ -14,6 +14,10 @@ Skip all the Airtable view setup and use this template link. Click "Copy Base" t
 
 https://airtable.com/shrme2KSoGVdsCt1H/tblDRZRchQH7BLJGa/viwSvg8NIIyLab4QI?blocks=hide
 
+### Sample
+
+![Sample Custom Gallery View](/airtable_job_board/diana_example_gallery.png =800x460)
+
 ### Airtable View Setup
 1. Sign up for AirTable. This will be our database and form designer/host. The free account tier should work for our needs.
 https://airtable.com/
