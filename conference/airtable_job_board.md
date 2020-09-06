@@ -59,6 +59,7 @@ Here we use AirTable and some cloud storage to create an elegant, feature-rich, 
 1. If you'd like to moderate the job postings, set a filter for `Approved` **is** "Yes".
     - When new jobs are posted, review them, and manually set `Approved` to "Yes" to allow them to be displayed.
     <img alt="Filter Table" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_table_sort.png" width="60%">
+    - You may want to note on the submission form that listings will be moderated, and won't appear immediately.
 1. Set the sort field to `Company Name` to keep things tidy.
     - If you'd like to tag and prioritize sponsored or other types of listings, sort first by `Type` (Z -> A), then `Company Name`.
     <img alt="Sort Table" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_table_sort.png" width="60%">
@@ -70,7 +71,9 @@ You should have a nice looking, filtered, and sorted Gallery view.
 ### Share Airtable Links
 
 1. Make shareable links for your Form and Gallery views.
+    
     <img alt="Shareable Link" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_form_shareable.png" width="60%">
+
 1. For more accessible browsing, also create a shareable Grid view link.
 1. Share these links as needed for your event/organization.
 
