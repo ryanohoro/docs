@@ -58,7 +58,7 @@ Here we use AirTable and some cloud storage to create an elegant, feature-rich, 
 
 1. If you'd like to moderate the job postings, set a filter for `Approved` **is** "Yes".
     - When new jobs are posted, review them, and manually set `Approved` to "Yes" to allow them to be displayed.
-    <img alt="Filter Table" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_table_sort.png" width="60%">
+    <img alt="Filter Table" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_table_filter.png" width="60%">
     - You may want to note on the submission form that listings will be moderated, and won't appear immediately.
 1. Set the sort field to `Company Name` to keep things tidy.
     - If you'd like to tag and prioritize sponsored or other types of listings, sort first by `Type` (Z -> A), then `Company Name`.
@@ -95,11 +95,13 @@ When new posts are submitted, send a notification to a moderation channel.
 
 <img alt="Automation for New Post" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_automations_new_post.png" width="100%">
 
-<img alt="Sample Slack Post" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_automations_slack_demo.png" width="50%">
-
-When posts have their Approved field updated, send a notification to the public channel.
+When posts have their `Approved` field updated, send a notification to the public channel.
 
 <img alt="Automation for New Post" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_automations_approved.png" width="100%">
+
+You should see a notification to your preferred channel when either event is triggered.
+
+<img alt="Sample Slack Post" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_automations_slack_demo.png" width="70%">
 
 ### Customizing the Job Board Layout
 
