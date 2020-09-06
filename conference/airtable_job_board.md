@@ -10,13 +10,13 @@ Here we use AirTable and some cloud storage to create an elegant and feature-ric
 1. Moderation
 1. Monitoring/notifications
 
-Skip all the Airtable view setup and use this template link. Click "Copy Base" to get started!
+**Skip all the Airtable view setup** and use this template link. Click "Copy Base" to get started!
 
 https://airtable.com/shrme2KSoGVdsCt1H/tblDRZRchQH7BLJGa/viwSvg8NIIyLab4QI?blocks=hide
 
 ### Sample
 
-![Sample Custom Gallery View](/conference/airtable_job_board/images/diana_example_gallery.png =800x460)
+<img alt="Sample Custom Gallery View" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/diana_example_gallery.png" width="100%">
 
 ### Airtable View Setup
 1. Sign up for AirTable. This will be our database and form designer/host. The free account tier should work for our needs.
