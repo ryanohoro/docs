@@ -91,7 +91,7 @@ If copying the [Airtable Job Board Base](https://airtable.com/shrme2KSoGVdsCt1H/
     - `Job Link` (URL)
     - `Type` (Single Select)
     - `Approved` (Single Select)
-1. Add some sample data to your table, set the Type field to "Sponsor" on some, The Approved field to "Yes" on some.
+1. Add some sample data to your table, set the `Type` field to "Sponsor" on some, the `Approved` field to "Yes" on some.
 
     <img alt="Sample Table Data" src="https://github.com/ryanohoro/docs/raw/main/conference/airtable_job_board/images/airtable_table_data.png" width="100%">
 
